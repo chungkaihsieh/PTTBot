@@ -1,9 +1,9 @@
 # PTTBot
+<img align="right" width="135" height="135"
+     title="PTTBot logo" src="./images/pttbot_icon.png">
 * [Prerequisites](#prerequisites)
 * [Usage](#usage)
 
-<img align="right" width="120" height="178"
-     title="PTTBot logo" src="./images/pttbot_icon.png">
 
 
 ## Prerequisites
@@ -32,7 +32,7 @@ apiai
 pip install -r requirements.txt
 ```
 
-###Config
+### Config
 Change Keras configuration.
 `image_data_format` and `backend` in `~/.keras/keras.json`
 ```
@@ -53,17 +53,14 @@ Change Keras configuration.
 ### Web Interface
 To test the chatbot, open the browser and type in http://localhost:5000 [link](http://localhost:5000)
 
-## Authors
-| [<img src="https://avatars3.githubusercontent.com/u/17563176?s=460&v=4" width="100px;"/><br /><sub><b>Chung Kai Hsieh</b></sub>](https://github.com/account)<br />        | [<img src="https://avatars0.githubusercontent.com/u/22479778?s=460&v=4" width="100px;"/><br /><sub><b>HungWei-Andy</b></sub>](https://github.com/HungWei-Andy)<br /> | [<img src="https://avatars0.githubusercontent.com/u/24911155?s=460&v=4" width="100px;"/><br /><sub><b>ChaohuiYu
-</b></sub>](https://github.com/ChaohuiYu)<br />          | [<img src="https://scontent.fkhh1-2.fna.fbcdn.net/v/t1.0-9/600984_382974335099334_1394295018_n.jpg?_nc_cat=0&_nc_eui2=v1%3AAeFtsIiDXhJctKU_uHiLGHyxIPQwqTW05v5zzQgkbXJXMSXwXKB8whndBJlFUGyy10L5KVE2QyTA6-CZWt0t4LRGrYRoIo2EskGN2jvTm8oEjg&oh=4a3114031fe396334dd22e3c2ee70839&oe=5B68F9E9" width="100px;"/><br /><sub><b>Zheng Pei Chun</b></sub>](https://www.facebook.com/rubbincheng?ref=br_rs)<br /> |  
-| 
 
+## Authors
+| [<img src="https://avatars3.githubusercontent.com/u/17563176?s=460&v=4" width="110px;"/><br /><sub><b>Chung Kai Hsieh</b></sub>](https://github.com/account)<br />        | [<img src="https://avatars0.githubusercontent.com/u/22479778?s=460&v=4" width="110px;"/><br /><sub><b>HungWei-Andy</b></sub>](https://github.com/HungWei-Andy)<br />  | [<img src="https://avatars0.githubusercontent.com/u/24911155?s=460&v=4" width="110px;"/><br /><sub><b>ChaohuiYu</b></sub>](https://github.com/ChaohuiYu)<br />          | [<img src="https://scontent.fkhh1-2.fna.fbcdn.net/v/t1.0-9/600984_382974335099334_1394295018_n.jpg?_nc_cat=0&_nc_eui2=v1%3AAeFtsIiDXhJctKU_uHiLGHyxIPQwqTW05v5zzQgkbXJXMSXwXKB8whndBJlFUGyy10L5KVE2QyTA6-CZWt0t4LRGrYRoIo2EskGN2jvTm8oEjg&oh=4a3114031fe396334dd22e3c2ee70839&oe=5B68F9E9" width="110px;"/><br /><sub><b>Zheng Pei Chun</b></sub>](https://www.facebook.com/rubbincheng?ref=br_rs)<br /> 
+|:---:|:---:|:---:|:---:|
 ## Reward
 2017 Chatbot Competition : Emotibot Reward
-<p align="center">
-  <img src="./images/reward_people.png" alt="Reward picture"
-       width="654" height="450">
-  <img src="./images/certificate.png" alt="Certificate"
-       width="654" height="450">
+<p align="left">
+<img src="./images/reward_people.png" alt="Reward picture" width="654" height="450"> <img src="./images/certificate.png" alt="Certificate" width="654" height="450">   
 </p>
+
 
