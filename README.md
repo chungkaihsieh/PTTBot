@@ -2,7 +2,7 @@
 * [Prerequisites](#prerequisites)
 * [Usage](#usage)
 
-<img align="right" width="120" height="178"
+<img align="right" width="180" height="180"
      title="PTTBot logo" src="./images/pttbot_icon.png">
 
 
