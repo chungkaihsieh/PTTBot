@@ -4,6 +4,11 @@
 * [Prerequisites](#prerequisites)
 * [Usage](#usage)
 
+<<<<<<< HEAD
+=======
+<img align="right" width="180" height="180"
+     title="PTTBot logo" src="./images/pttbot_icon.png">
+>>>>>>> 585b1ba31c521cb598ac3269ed6a058fbb946ff2
 
 
 ## Prerequisites
