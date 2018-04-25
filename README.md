@@ -70,7 +70,7 @@ To test the chatbot, open the browser and type in http://localhost:5000 [link](h
 ## Reward
 2017 Chatbot Competition : Emotibot Reward
 
-| <img src="./images/reward_people.png" alt="Reward picture" width="250" height="200"> | <img src="./images/certificate.png" alt="Certificate" width="250" height="200"> |
+| <img src="./images/reward_people.png" alt="Reward picture" width="271" height="217"> | <img src="./images/certificate.png" alt="Certificate" width="271" height="217"> |
 |:---:|:---:|
 
 
