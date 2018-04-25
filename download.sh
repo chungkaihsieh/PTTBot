@@ -1,2 +1,3 @@
-wget "https://drive.google.com/uc?export=download&id=1bQf5eUaA43jtQ7IXDW0mXYOij89uDB0g" -O PTTBOT_DEMO.zip
+#!/bin/bash
+wget https://www.dropbox.com/s/dee848jaet6cw44/PTTBOT_DEMO.zip
 unzip PTTBOT_DEMO.zip
