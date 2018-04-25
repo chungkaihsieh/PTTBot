@@ -5,7 +5,7 @@
 
 >The PTTBot is the course project of Intelligent Conversational Bot (2017 ICB)  and win the prize awarded by EmotiBot.
 
-[![PTTBot](https://img.shields.io/badge/Course-2017_ICB-brightgreen.svg)](https://www.csie.ntu.edu.tw/~yvchen/s105-icb/) ![PTTBot](https://img.shields.io/badge/Reward-EMOTIBOT-blue.svg)
+[![PTTBot](https://img.shields.io/badge/Course-2017_ICB-brightgreen.svg)](https://www.csie.ntu.edu.tw/~yvchen/s105-icb/) ![Reward](https://img.shields.io/badge/Reward-EMOTIBOT-blue.svg)
 
 ## Getting Started
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. 
@@ -70,7 +70,7 @@ To test the chatbot, open the browser and type in http://localhost:5000 [link](h
 ## Reward
 2017 Chatbot Competition : Emotibot Reward
 
-| <img src="./images/reward_people.png" alt="Reward picture" width="500" height="300"> | <img src="./images/certificate.png" alt="Certificate" width="500" height="300"> |
+| <img src="./images/reward_people.png" alt="Reward picture" width="300" height="240"> | <img src="./images/certificate.png" alt="Certificate" width="300" height="240"> |
 |:---:|:---:|
 
 
