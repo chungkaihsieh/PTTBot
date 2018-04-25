@@ -16,11 +16,6 @@ These instructions will get you a copy of the project up and running on your loc
 
 
 ## Prerequisites
-### Download
-Please download packages by executing download.sh before running the code:
-```bash
-  bash download.sh
-```
 
 ### Python Requirements
 The python version is Python 2.7.
@@ -38,7 +33,7 @@ apiai
 ```
 (Recommend) Automatically Install by one command .
 ```bash
-pip install -r requirements.txt
+$ pip install -r requirements.txt
 ```
 
 ### Config
@@ -53,10 +48,17 @@ Change Keras configuration.
 }
 ```
 
+### Download
+Please download packages by executing download.sh before running the code:
+```bash
+  bash download.sh
+```
+
 ## Usage
 ### Run the server
 ```bash
-  python server.py
+$ cd PTTBot_DEMO
+$ python server.py
 ```
 
 ### Web Interface
